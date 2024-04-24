@@ -107,6 +107,7 @@ body{
     font-size: 20px;
     border: none;
     filter: drop-shadow(8px 8px 10px black);
+color:white
 }
 .cart:hover,.blue:hover ,.pink:hover ,.yellow:hover ,.mrkt:hover{
     transform: scale(1.07); 
